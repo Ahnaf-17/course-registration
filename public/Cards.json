@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/xjyL8c2/Rectangle-2.png",
+        "course_name": "Introduction to OOP Python ",
+        "credit": 3,
+        "price": 49.99,
+        "details": "This introductory course provides a solid foundation in Python programming for beginners. Python is a versatile .. "
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/X2tNQxz/Rectangle-2-1.png",
+        "course_name": "Database (MySQL) ",
+        "credit": 6,
+        "price": 149.99,
+        "details": "This crash course is designed to provide you with a fundamental understanding of Structured Query Language (SQL)."
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/zxGD5qF/Rectangle-2-2.png",
+        "course_name": "Introduction to C Programming",
+        "credit": 4,
+        "price": 99.99,
+        "details": "This short course offers a comprehensive overview of the C programming language, providing the essential skills...."
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/N6tk22H/Rectangle-2-3.png",
+        "course_name": "Introduction to Algorithm",
+        "credit": 3,
+        "price": 79.99,
+        "details": "This course provides a fundamental understanding of algorithms, which are essential tools in computer science and problem-solving. "
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/tJsZMkP/Rectangle-2-4.png",
+        "course_name": "Introduction to C++ for DSA",
+        "credit": 5,
+        "price": 129.99,
+        "details": "This introductory course offers a comprehensive overview of the C++ programming language, providing the essential skills....  ."
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/xJ1KjtT/Rectangle-2-5.png",
+        "course_name": "Software Engineering",
+        "credit": 4,
+        "price": 89.99,
+        "details": "This introductory course provides a comprehensive overview of the field of software engineering, focusing on the.... "
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/PWRpXtK/Rectangle-2-6.png",
+        "course_name": "Problem-Solving Part",
+        "credit": 5,
+        "price": 149.99,
+        "details": "This introductory course is designed to equip participants with essential problem-solving skills to solve real life problem"
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/KLydL0G/Rectangle-3.png",
+        "course_name": "Basic Data Structures ",
+        "credit": 3,
+        "price": 69.99,
+        "details": "This course provides a introduction to the fundamental data structures used in software development and problem solving."
+    },
+    {
+        "id": 9,
+        "img": "https://i.ibb.co/zN4qTKx/Rectangle-3-1.png",
+        "course_name": "AWS, Cloud Computing",
+        "credit": 2,
+        "price": 39.99,
+        "details": "This introductory provides a introduction to the fundamental cloud computing skills used in software development."
+    }
+]
